@@ -1,6 +1,3 @@
-
-
-
 var timeMap = L.map('timeMap', {
     center: [42.877742, -97.380979],
     zoom: 2.5,
