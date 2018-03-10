@@ -1,1 +1,1 @@
-# earthquake-data
+# earthquakes
